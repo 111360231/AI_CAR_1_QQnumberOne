@@ -6,14 +6,14 @@
 
 # 線下賽部分
 模型名稱：313536<br>
-![Logo](image/313536(1).png)<br>
+![Logo](image/313536_1.png)<br>
 選用這個模型的理由：<br>
 由以下評估模型可以看到，賽車模型的完成率最高，表示比較穩定，可以減少賽車出軌的機率，其中有4個都達到100%。<br>
-![Logo](image/313536(2).png)<br>
+![Logo](image/313536_2.png)<br>
 訓練日誌：<br>
-![Logo](image/313536(3).png)<br>
+![Logo](image/313536_3.png)<br>
 評估日誌：<br>
-![Logo](image/313536(4).png)<br>
+![Logo](image/313536_4.png)<br>
 獎勵函數：<br>
 [點我看文字檔](reward%20funtion/313536.txt)<br>
 
@@ -27,5 +27,5 @@
 | 30 | 60 | 60 | 60 | 60 | 60 |
 <br>
 其他參數：<br>
-![Logo](image/313536a%281%29.png)<br>
+![Logo](image/313536a_1.png)<br>
 
