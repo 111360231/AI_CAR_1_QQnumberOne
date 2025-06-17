@@ -16,6 +16,8 @@
 ![Logo](image/313536(3).png)<br>
 評估日誌：<br>
 ![Logo](image/313536(4).png)<br>
+獎勵函數：<br>
+[點我看文字檔](reward funtion/313536.txt)<br>
 
 
 | 姓名 | 職位   | 地點     |
