@@ -27,5 +27,12 @@
 | 313536a0605 | -clone1 | -clone2 | -clone3 | -clone4 | -clone5 |
 |---------------|----------|----------|----------|----------|----------|
 | 30 | 60 | 60 | 60 | 60 | 60 |
-<br>
+<br><br><br>
+獎勵函數：<br>
+[點我看文字檔](reward%20funtion/313536a0605.txt)<br>
+獎勵函數參考來源：<br>
+[github連結](https://github.com/yang0369/AWS_DeepRacer/blob/main/reward_function(1.5).py
+)<br>
+
+
 
