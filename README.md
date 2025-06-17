@@ -4,26 +4,35 @@
 學號及姓名：111360231呂佳家、111360235馬赫行、111360236謝子涵<br>
 組名：第一組 QQnumberOne<br>
 
+
 # 線下賽部分
 模型名稱：313536<br>
 ![Logo](image/313536_1.png)<br>
+
 選用這個模型的理由：<br>
-由以下評估模型可以看到，賽車模型的完成率最高，表示比較穩定，可以減少賽車出軌的機率，其中有4個都達到100%。<br>
+由以下評估模型可以看到，賽車模型的完成率非常高，表示比較穩定，可以減少賽車出軌的機率，其中有4個都達到100%。<br>
+
 ![Logo](image/313536_2.png)<br>
-訓練日誌：<br>
-![Logo](image/313536_3.png)<br>
-評估日誌：<br>
-![Logo](image/313536_4.png)<br>
+
 獎勵函數：<br>
 [點我看文字檔](reward%20funtion/313536.txt)<br>
+
+訓練日誌：<br>
+![Logo](image/313536_3.png)<br>
+
+評估日誌：<br>
+![Logo](image/313536_4.png)<br>
+
 線下賽最快的時間：12.36秒<br>
 名次：1/11<br>
+
 
 # 線上賽部分
 最初始模型名稱：313536a0605<br>
 從313536a0605這個模型開始修正到313536a0605-clone5<br>
 其他參數(除了順練時數之外，都與下圖-clone5相同)：<br>
 ![Logo](image/313536_5.png)<br>
+
 <br>
 訓練時數(min)：<br>
 | 313536a0605 | -clone1 | -clone2 | -clone3 | -clone4 | -clone5 |
@@ -32,13 +41,27 @@
 
 <br>
 
-獎勵函數：<br>
+獎勵函數(這六個模型都是使用這個獎勵函數進行訓練)：<br>
 [點我看文字檔](reward%20funtion/313536a0605.txt)<br>
 獎勵函數參考來源：<br>
-[github連結](https://github.com/yang0369/AWS_DeepRacer/blob/main/reward_function(1.5).py
-)<br>
+[github連結](https://github.com/yang0369/AWS_DeepRacer/blob/main/reward_function(1.5).py)<br>
+
 獎勵圖比較：<br>
 ![Logo](image/313536_6.jpg)<br>
+
+訓練日誌：<br>
+最初的模型(313536a0605)<br>
+![Logo](image/313536_7.png)<br>
+最終的模型(313536a0605-clone5)<br>
+![Logo](image/313536_9.png)<br>
+
+評估日誌：<br>
+最初的模型(313536a0605)<br>
+![Logo](image/313536_8.png)<br>
+最終的模型(313536a0605-clone5)<br>
+![Logo](image/313536_10.png)<br>
+由這兩張圖比較可得知，經歷了5.5小時的訓練的評估結果是比只訓練30分鐘的穩定很多，而且也比較接近最佳賽車線。<br>
+
 線上賽最快的時間：8.602秒<br>
 
 
