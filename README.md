@@ -14,8 +14,7 @@
 
 ![Logo](image/313536_2.png)<br>
 
-獎勵函數：<br>
-[點我看文字檔](reward%20funtion/313536.txt)<br>
+獎勵函數：[點我看文字檔](reward%20funtion/313536.txt)<br>
 
 訓練日誌：<br>
 ![Logo](image/313536_3.png)<br>
@@ -30,8 +29,9 @@
 # 線上賽部分
 最初始模型名稱：313536a0605<br>
 從313536a0605這個模型開始修正到313536a0605-clone5<br>
-其他參數(除了順練時數之外，都與下圖-clone5相同)：<br>
+其他參數(除了訓練時數之外，都與下圖-clone5相同)：<br>
 ![Logo](image/313536_5.png)<br>
+這邊可以看到，我們將原本預設的折扣係數0.5提升到0.9，每次策略更新反覆運算的經驗事件數也從20提升到35。
 
 <br>
 訓練時數(min)：<br>
@@ -42,10 +42,8 @@
 
 <br>
 
-獎勵函數(這六個模型都是使用這個獎勵函數進行訓練)：<br>
-[點我看文字檔](reward%20funtion/313536a0605.txt)<br>
-獎勵函數參考來源：<br>
-[github連結](https://github.com/yang0369/AWS_DeepRacer/blob/main/reward_function(1.5).py)<br>
+獎勵函數(這六個模型都是使用這個獎勵函數進行訓練)：[點我看文字檔](reward%20funtion/313536a0605.txt)<br>
+獎勵函數參考來源：[github連結](https://github.com/yang0369/AWS_DeepRacer/blob/main/reward_function(1.5).py)<br>
 
 獎勵圖比較：<br>
 ![Logo](image/313536_6.jpg)<br>
