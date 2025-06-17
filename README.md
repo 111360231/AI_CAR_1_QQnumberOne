@@ -16,11 +16,13 @@
 ![Logo](image/313536_4.png)<br>
 獎勵函數：<br>
 [點我看文字檔](reward%20funtion/313536.txt)<br>
+線下賽最快的時間：12.36秒<br>
+名次：1/11<br>
 
 # 線上賽部分
 最初始模型名稱：313536a0605<br>
 從313536a0605這個模型開始修正到313536a0605-clone5<br>
-其他參數：<br>
+其他參數(除了順練時數之外，都與下圖-clone5相同)：<br>
 ![Logo](image/313536_5.png)<br>
 <br>
 訓練時數(min)：<br>
@@ -35,6 +37,8 @@
 獎勵函數參考來源：<br>
 [github連結](https://github.com/yang0369/AWS_DeepRacer/blob/main/reward_function(1.5).py
 )<br>
-
+獎勵圖比較：<br>
+![Logo](image/313536_6.jpg)<br>
+線上賽最快的時間：8.602秒<br>
 
 
