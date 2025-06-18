@@ -51,7 +51,7 @@
 
 獎勵圖比較：<br>
 ![Logo](image/313536_6.jpg)<br>
-![Logo](image/313536_13.jpg)<br>
+![Logo](image/313536_13.png)<br>
 
 訓練日誌：<br>
 **最初的模型(313536a0605)**<br>
